@@ -1,2 +1,3 @@
 # password-generator
-random password
+Генератор паролей на рython.
+Он выдаст 10 рандомных паролей указанной длинным^_^
