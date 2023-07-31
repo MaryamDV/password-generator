@@ -40,4 +40,4 @@ async def password(ctx, pas_len = 8):
     
     
     
-bot.run("MTEzNDQyODg5OTQ4NTQzMzk3Ng.GgsjIo.vUnYE_ZDrQ90J53sx5XeV_nNv-A4SYYzcwGsjM")
+bot.run("")
