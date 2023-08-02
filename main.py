@@ -35,7 +35,9 @@ async def password(ctx, pas_len = 8):
     await ctx.send(text)
     
     
-    
+    @bot.command()
+async def как дела?(ctx)
+await ctx.send("Нормально как у вас?")
     
     
     
