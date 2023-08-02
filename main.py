@@ -35,9 +35,14 @@ async def password(ctx, pas_len = 8):
     await ctx.send(text)
     
     
-    @bot.command()
-async def как дела?(ctx)
-await ctx.send("Нормально как у вас?")
+@bot.command()
+async def howAreU(ctx)
+    await ctx.send("Нормально как у вас?")
+    
+@bot.command()
+async def help(ctx):
+    help = "В боте есть команда password которая генерирует пароль,есть команда howAreU ,и команда hello"
+    await ctx.send(help)
     
     
     
